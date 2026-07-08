@@ -3,7 +3,6 @@
 
 ## 프로젝트: Realillust
 - 서비스 링크: https://realillust.com
-- 개발 기간: 2026.06.09 ~ 진행 중
 
 ## 팀원
 
