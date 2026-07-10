@@ -1,8 +1,8 @@
 # AI Software Maestro 17기 - Team MinsWon
 
 
-## 프로젝트: Realillust
-- 서비스 링크: https://realillust.com
+## 프로젝트: HeyMoa
+- 서비스 링크: https://hey-moa.com
 
 ## 팀원
 
