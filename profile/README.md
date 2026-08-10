@@ -2,8 +2,8 @@
 
 
 ## 프로젝트: HeyMoa
-- 웹 링크: https://heymoa.app
-- 서버 링크: https://api.heymoa.app
+- 서비스 링크: https://heymoa.app
+- 기술문서 링크: https://tech.heymoa.app
 
 ## 팀원
 
