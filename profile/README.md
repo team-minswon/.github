@@ -1,7 +1,7 @@
 # AI Software Maestro 17기 - Team MinsWon
 
 
-## HeyMoa - AI 회의록 서비스
+## HeyMoa - AI 실시간 회의록 서비스
 - 서비스 링크: https://heymoa.app
 - 기술문서 링크: https://tech.heymoa.app
 
